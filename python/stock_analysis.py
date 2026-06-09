@@ -17,6 +17,6 @@ long_df = (
 
 print(long_df.head())
 
-long_df.to_csv("analysis_of_selected_stocks", index=False)
+long_df.to_csv("analysis_of_selected_stocks.csv", index=False)
 
 print("File saved!")
