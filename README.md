@@ -25,6 +25,10 @@ Interactive Power BI dashboard analyzing stock performance (2020–2026) using P
 - NVDA achieved a 33.98x growth multiple
 - Semiconductor stocks outperformed the broader market benchmark (SPY)
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-overview.png)
+
 ## Author
 
 Beatha Uwamahoro
