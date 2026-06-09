@@ -27,7 +27,7 @@ Interactive Power BI dashboard analyzing stock performance (2020–2026) using P
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-overview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Author
 
